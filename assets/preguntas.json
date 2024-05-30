@@ -1,0 +1,14 @@
+[
+    { "Pregunta": "¿Qué es la huella de carbono?", "Respuesta": "Es un indicador ambiental"},
+    { "Pregunta": "¿Para qué sirve calcular la huella de carbono?", "Respuesta": "Sirve para ayudar a las personas a entender el impacto que generan sus hábitos en el medio ambiente"},
+    { "Pregunta": "¿En qué unidades se mide la huella de carbono?", "Respuesta": "Se estandariza su medida en CO2"},
+    { "Pregunta": "¿Qué acciones influyen en el cálculo de la huella de carbono?", "Respuesta": "Se encuentra la energía, transporte,productos consumidos etc"}, 
+    { "Pregunta": "¿Cómo se calcula?", "Respuesta": "Su fórmula es consumo * factor de emisión"},
+    { "Pregunta": "¿Qué es el CO2 equivalente?", "Respuesta": "Es una unidad que permite expresar el potencial de calentamiento global"}, 
+    { "Pregunta": "¿Qué es el ciclo de vida de un producto?", "Respuesta": "Es el conjunto de etapas que abarca la extracción, el transporte, el uso y fin del producto"}, 
+    { "Pregunta": "¿Qué es la huella de carbono coporativa?", "Respuesta": "Es la medida de gases de efecto invernadero que genera una organización"}, 
+    { "Pregunta": "¿Qué es la huella de carbono cápita?", "Respuesta": "Es la medida de gases de efecto invernadero que genera cada habitante de un país"}, 
+    { "Pregunta": "¿Qué es la huella de carbono personal?", "Respuesta": "Es la medida de gases de efecto invernadero que genera una persona por sus hábitos"}
+   
+   
+]
